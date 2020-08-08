@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[<img align="left" alt="K8s" width="30px" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" />][kubernetes]
-[<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/docker.svg" />][Docker]
-[<img align="left" alt="Python" width="30px" src="https://www.python.org/static/community_logos/python-logo-generic.svg" />][Python]
-[<img align="left" alt="Python" width="30px" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" />][Golang]
-[<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][Sql]
-[<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
+[<img align="left" alt="K8s" width="26px" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" />][kubernetes]
+[<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/docker.svg" />][Docker]
+[<img align="left" alt="Python" width="26px" src="https://www.python.org/static/community_logos/python-logo-generic.svg" />][Python]
+[<img align="left" alt="Python" width="26px" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" />][Golang]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][Sql]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
 
 <br />
 <br />
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img align="left" alt="Abhishek627's Github Stats" src="https://github-readme-stats.abhishek627.vercel.app/api?username=Abhishek627&show_icons=true&hide_border=true" />
+[![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=Abhishek627&count_private=true&theme=radical)](https://github.com/Abhishek627/github-readme-stats)
 
 [medium]: https://medium.com/tech-chronicles
 [twitter]: https://twitter.com/Guruji_abhishek
