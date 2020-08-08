@@ -32,13 +32,13 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[<img align="left" alt="K8s" width="26px" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" />][kubernetes]
-[<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/docker.svg" />][Docker]
-[<img align="left" alt="Python" width="26px" src="https://www.python.org/static/community_logos/python-logo-generic.svg" />][Python]
-[<img align="left" alt="Python" width="26px" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" />][Golang]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][Sql]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
+[<img align="left" alt="K8s" width="30px" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" />][kubernetes]
+[<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/docker.svg" />][Docker]
+[<img align="left" alt="Python" width="30px" src="https://www.python.org/static/community_logos/python-logo-generic.svg" />][Python]
+[<img align="left" alt="Python" width="30px" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" />][Golang]
+[<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][Sql]
+[<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
+[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
 
 <br />
 <br />
