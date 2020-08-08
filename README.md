@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Abhishek !! 👋 
 
 <!--
 **Abhishek627/Abhishek627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,45 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I'm a Developer and a Learner !
+- 🔭 I’m currently working on creating good online tech footprint !
+- 🌱 I’m currently learning devops and frontend development
+- 👯 I’m looking to collaborate with other devops enthusiasts
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to go on long runs and play with my dogs and cats
+
+### Connect with me:
+
+[<img align="left" alt="Abhishek627 | Medium" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][medium]
+[<img align="left" alt="Abhishek627 | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Abhishek627 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="K8s" width="30px" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.svg" />][kubernetes]
+[<img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/docker.svg" />][Docker]
+[<img align="left" alt="Python" width="30px" src="https://www.python.org/static/community_logos/python-logo-generic.svg" />][Python]
+[<img align="left" alt="Python" width="30px" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" />][Golang]
+[<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][Sql]
+[<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
+[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
+
+<br />
+<br />
+
+---
+
+### 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<img align="left" alt="Abhishek627's Github Stats" src="https://github-readme-stats.abhishek627.vercel.app/api?username=Abhishek627&show_icons=true&hide_border=true" />
+
+[medium]: https://medium.com/tech-chronicles
+[twitter]: https://twitter.com/Guruji_abhishek
+[linkedin]: https://www.linkedin.com/in/abhishek-sharma-4088987b/
