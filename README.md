@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="Abhishek627 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
+<br />
 
 ### Tech Stack :computer:
 
