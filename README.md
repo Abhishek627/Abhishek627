@@ -113,6 +113,7 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Tutorial Hell : How to avoid it ?](https://medium.com/tech-chronicles/tutorial-hell-how-to-avoid-it-c193d46f022?source=rss----180884ff9a26---4)
 - [Ambassador + Lyft’s Rate-Limit service](https://medium.com/tech-chronicles/ambassador-lyfts-rate-limit-service-cdf64b4fa371?source=rss----180884ff9a26---4)
 <!-- BLOG-POST-LIST:END -->
 
