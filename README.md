@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="Abhishek627 | Medium" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][medium]
+[<img align="left" alt="Abhishek627 | Medium" width="25px" style="color:blue" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][medium]
 [<img align="left" alt="Abhishek627 | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Abhishek627 | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
