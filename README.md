@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## I'm a Developer and a Learner !
-- 🔭 I’m currently working on creating good online tech footprint !
 - 🌱 I’m currently learning devops and frontend development
 - 👯 I’m looking to collaborate with other devops enthusiasts
 - 🥅 2020 Goals: Contribute more to Open Source projects
